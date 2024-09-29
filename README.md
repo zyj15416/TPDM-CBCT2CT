@@ -73,7 +73,7 @@ python predict.py
 
 # Pretrained Models
 ```
-We have released pretrained weights for cbct->ct in SynthRAD2023 challenge dataset( https://pan.baidu.com/s/13c8BlY6XOIuoyXeHtvNxgw?pwd=au45). You can save these weights in relevant checkpoints folder and perform inference.
+We have released pretrained weights for cbct->ct in SynthRAD2023 challenge dataset(https://pan.baidu.com/s/1ATAeiGnNeaF1G0E1z974KQ?pwd=k7m4 ). You can save these weights in relevant checkpoints folder and perform inference.
 ```
 
 # Citation
