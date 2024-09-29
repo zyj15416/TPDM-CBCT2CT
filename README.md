@@ -2,6 +2,8 @@
 # Texture-Preserving Diffusion Model for CBCT-to-CT Synthesis
 ![flow chart](./figure/flowchart.png)
 
+# Introduction
+This repository implements a texture-preserving diffusion model for CBCT-to-CT synthesis, designed to improve the quality and accuracy of medical image synthesis.
 
 
 # Dataset
