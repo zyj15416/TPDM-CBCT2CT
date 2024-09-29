@@ -64,7 +64,7 @@ cd TPDM-CBCT2CT
 
 # Train
 ```
-python train.py, The hyperparameter settings are handled in `utils/utils.py`.
+python train.py, the hyperparameter settings are handled in `utils/utils.py`.
 ```
 # Predict
 ```
