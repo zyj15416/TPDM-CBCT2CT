@@ -36,7 +36,9 @@ The dataset links used in this study are as follows:
 
 
 
-Before using the dataset, convert the `nii.gz` data to `npy` format using `reg/nii2npy.py`, and perform registration using `syn`.   
+Before using the dataset, convert the `nii.gz` data to `npy` format using `reg/nii2npy.py`, and perform registration using `syn`. 
+All the data is standardized using the mean and standard deviation of the raw data. The data processing is handled in dataloader.py  
+
 
 # Dependencies
 ```
