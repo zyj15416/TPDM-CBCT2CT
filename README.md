@@ -55,7 +55,11 @@ timm==0.6.12
 torch==2.0.0
 tqdm==4.64.1
 ```
+# Installation
+## Clone this repo:
+```
 
+```
 
 # Train
 ```
