@@ -59,7 +59,7 @@ tqdm==4.64.1
 
 # Train
 ```
-python train.py
+python train.py, The hyperparameter settings are handled in `utils/utils.py`.
 ```
 # Predict
 ```
