@@ -56,9 +56,10 @@ torch==2.0.0
 tqdm==4.64.1
 ```
 # Installation
-## Clone this repo:
+* ### Clone this repo:
 ```
-
+git clone https://github.com/zyj15416/TPDM-CBCT2CT.git
+cd TPDM-CBCT2CT
 ```
 
 # Train
