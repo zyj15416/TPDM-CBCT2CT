@@ -74,6 +74,7 @@ You can use `predict.py` to load the weights and test the dataset, and you can m
 # Pretrained Models
 ```
 We have released pretrained weights for cbct->ct in SynthRAD2023 challenge dataset(https://pan.baidu.com/s/1ATAeiGnNeaF1G0E1z974KQ?pwd=k7m4 ). You can save these weights in relevant checkpoints folder and perform inference.
+After downloading the pretrained weights, place them in the corresponding folder, such as `./weights/weights.pth`. Then, replace the weight path in `predict.py` accordingly to perform model inference.
 ```
 * ### sample_test01
 ```
