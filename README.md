@@ -38,6 +38,22 @@ The dataset links used in this study are as follows:
 
 Before using the dataset, convert the `nii.gz` data to `npy` format using `reg/nii2npy.py`, and perform registration using `syn`.   
 
+# Dependencies
+```
+albumentations==1.3.0
+einops==0.6.1
+matplotlib==3.5.2
+numpy==1.21.5
+opencv_contrib_python==4.7.0.72
+Pillow==9.5.0
+scikit_image==0.19.2
+scikit_learn==1.2.2
+SimpleITK==2.2.1
+timm==0.6.12
+torch==2.0.0
+tqdm==4.64.1
+```
+
 
 # Train
 ```
