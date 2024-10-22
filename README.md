@@ -85,7 +85,13 @@ After downloading the pretrained weights, place them in the corresponding folder
 # Citation
 ```
 If you find this repository useful for your research, please use the following.
-{
-
+{@article{zhang2024texture,
+  title={Texture-preserving diffusion model for CBCT-to-CT synthesis},
+  author={Zhang, Youjian and Li, Li and Wang, Jie and Yang, Xinquan and Zhou, Haotian and He, Jiahui and Xie, Yaoqin and Jiang, Yuming and Sun, Wei and Zhang, Xinyuan and others},
+  journal={Medical Image Analysis},
+  pages={103362},
+  year={2024},
+  publisher={Elsevier}
 }
+
 ```
